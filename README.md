@@ -1,17 +1,22 @@
- 
-**👋 I'm Frontend developer, Juyeon Bae.**
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer%2C+Juyeon+Bae;Next.js+%7C+React+%7C+TypeScript;Always+learning%2C+always+building" alt="Typing SVG" />
+</h3>
 
-💻 I'm currently using `Next.js`, `Typescript`, `React`, `React Native`, `Javascript`, etc..
+<p align="center">
+  👋 I'm Frontend developer, <b>Juyeon Bae</b>.<br/>
+  💻 I'm currently using Next.js, Typescript, React, React Native, Javascript, etc..<br/>
+  📚 I'm studying <a href="https://startcp.tistory.com/">here!</a>
+</p>
+<br/>
 
-<!-- 📮 Contact me w2316@e-mirim.hs.kr! -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,react,tailwind,git&theme=dark" />
+</p>
 
-📚 I'm studying <a href="https://startcp.tistory.com/"> here!</a>  
- 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baezy813&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
 
- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=baezy813&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/baezy813"
-  width="600"
-  height="300"
-/>
-</a>
+<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=baezy813&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/baezy813" width="600" height="300" />
+</a> -->
