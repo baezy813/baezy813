@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baezy813&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://render.gitanimals.org/farms/baezy813" width="600" height="300" />
 </p>
 
 <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=baezy813&utm_content=farm">
